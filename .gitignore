@@ -1,2 +1,5 @@
 .DS_Store
 .elixir_ls
+*.o
+*.hi
+*.hbin
